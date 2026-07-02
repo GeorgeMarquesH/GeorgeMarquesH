@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 - Brasileiro, solteiro, 20 anos.
-- Atualmente cursando **Sistemas da Informação (Faculdade Estácio de Sá - Período: 5º semestre)**.  
+- Atualmente cursando **Sistemas da Informação (Faculdade Estácio de Sá - Período: 6º semestre)**.  
 - Participei da **Jornada Python** da Hashtag Treinamentos.  
 - Iniciei o **Curso de Python Impressionador da Hashtag Treinamentos, cujo plano também me dá acesso a outros cursos, dentre eles Power BI, SQL, Inteligência Artificial e Pacote Office**, para aprofundar meus conhecimentos.
 - Tenho projetos práticos em **automação de tarefas**, **Chatbot com IA**, **análise de dados** e **machine learning**.
@@ -18,6 +18,8 @@
 
 ## 🛠️ Tecnologias que estudo e utilizo
 - **Python**
+- **Inteligência Artificial**
+- **N8N (Automação de Fluxos)**
 - **Desenvolvimento Web** (HTML, CSS, JavaScript, PHP)  
 - **Git & GitHub**
 - **VSCode**
@@ -34,7 +36,6 @@
 ---
 
 ## 🎓 Certificados
-
 - **Fundamentos – Python Impressionador** – Hashtag Treinamentos  
   [🔗 Certificado](https://github.com/GeorgeMarquesH/GeorgeMarquesHolanda/blob/main/certificado-George-Marques-Fundamentos.pdf)
 
