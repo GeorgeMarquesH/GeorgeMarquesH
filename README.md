@@ -34,18 +34,25 @@
 ---
 
 ## 🎓 Certificados
-- **Jornada Python** – Hashtag Treinamentos   
+
+- **Fundamentos – Python Impressionador** – Hashtag Treinamentos  
+  [🔗 Certificado](https://github.com/GeorgeMarquesH/GeorgeMarquesHolanda/blob/main/certificado-George-Marques-Fundamentos.pdf)
+
+- **Inteligência Artificial Impressionador** – Hashtag Treinamentos  
+  [🔗 Certificado](https://github.com/GeorgeMarquesH/GeorgeMarquesHolanda/blob/main/certificado-George-Marques-Intelig%C3%AAncia-Artificial-Impressionador%20(2).pdf)
+  
+- **Jornada Python** – Hashtag Treinamentos  
   [🔗 Certificado](https://github.com/GeorgeMarquesH/GeorgeMarquesHolanda/blob/main/Certificado%20da%20Jornada%20Pyhton.PDF)
 
 - **Iniciando na Programação Full Stack** – Programa Juventude Digital  
-  Emitido pelo Instituto Juventude Inovação / Prefeitura de Fortaleza
+  Emitido pelo Instituto Juventude Inovação / Prefeitura de Fortaleza  
   [🔗 Certificado](https://github.com/GeorgeMarquesH/GeorgeMarquesHolanda/blob/main/-JD-%20CERTIFICADO%20TRILHAS%20-%20SETEMBRO%20E%20OUTUBRO%202024-198.pdf)
 
 ---
 
 ## 📫 Contato
 - 📧 E-mail: georgemarquesholanda@gmail.com  
-- 📱 Telefone: +55 (85) 98627-9188  
+- 📱 Telefone: +55 (85) 98453-3368 
 - 🔗 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/george-marques-holanda-5270a2321/) 
 - 💻 GitHub: [https://github.com/GeorgeMarquesH](https://github.com/GeorgeMarquesH)  
 
