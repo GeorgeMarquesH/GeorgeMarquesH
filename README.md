@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou George Marques Holanda
 
-🎓 Estudante de **Sistemas da Informação**  
+🎓 Estudante de **Sistemas da Informação**
 💻 Buscando oportunidade de **estágio em programação**  
 🐍 Focado em **Python**, **Inteligência Artificial** e **Desenvolvimento Web**  
 
