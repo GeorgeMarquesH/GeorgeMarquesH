@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Sobre mim
-- Brasileiro, solteiro, 20 anos.
+- Brasileiro, solteiro, 21 anos.
 - Atualmente cursando **Sistemas da Informação (Faculdade Estácio de Sá - Período: 6º semestre)**.  
 - Participei da **Jornada Python** da Hashtag Treinamentos.  
 - Iniciei o **Curso de Python Impressionador da Hashtag Treinamentos, cujo plano também me dá acesso a outros cursos, dentre eles Power BI, SQL, Inteligência Artificial e Pacote Office**, para aprofundar meus conhecimentos.
