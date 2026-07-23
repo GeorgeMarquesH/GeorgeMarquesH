@@ -36,18 +36,18 @@
 ---
 
 ## 🎓 Certificados
-- **Python Intermediário – Python Impressionador** – Hashtag Treinamentos  
-  [🔗 Certificado](certificado-George-Marques-Intermediário.pdf)
+- **Python Fundamentos, Básico e Intermediário – Python Impressionador** – Hashtag Treinamentos  
+  [🔗 Certificado](certificado-fundamentos-basico-intermediario-python)
 
 - **Inteligência Artificial Impressionador** – Hashtag Treinamentos  
-  [🔗 Certificado](https://github.com/GeorgeMarquesH/GeorgeMarquesHolanda/blob/main/certificado-George-Marques-Intelig%C3%AAncia-Artificial-Impressionador%20(2).pdf)
+  [🔗 Certificado](certificado-inteligência-artificial-impressionador)
   
 - **Jornada Python** – Hashtag Treinamentos  
-  [🔗 Certificado](https://github.com/GeorgeMarquesH/GeorgeMarquesHolanda/blob/main/Certificado%20da%20Jornada%20Pyhton.PDF)
+  [🔗 Certificado](certificado-jornada-pyhton)
 
 - **Iniciando na Programação Full Stack** – Programa Juventude Digital  
   Emitido pelo Instituto Juventude Inovação / Prefeitura de Fortaleza  
-  [🔗 Certificado](https://github.com/GeorgeMarquesH/GeorgeMarquesHolanda/blob/main/-JD-%20CERTIFICADO%20TRILHAS%20-%20SETEMBRO%20E%20OUTUBRO%202024-198.pdf)
+  [🔗 Certificado](certificado-juventude-digital-prefeitura)
 
 ---
 
