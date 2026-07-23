@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou George Marques Holanda
 
-🎓 Estudante de **Sistemas da Informação**
+🎓 Estudante de **Sistemas da Informação**   
 💻 Buscando oportunidade de **estágio em programação**  
 🐍 Focado em **Python**, **Inteligência Artificial** e **Desenvolvimento Web**  
 
@@ -36,8 +36,8 @@
 ---
 
 ## 🎓 Certificados
-- **Fundamentos – Python Impressionador** – Hashtag Treinamentos  
-  [🔗 Certificado](https://github.com/GeorgeMarquesH/GeorgeMarquesHolanda/blob/main/certificado-George-Marques-Fundamentos.pdf)
+- **Python Intermediário – Python Impressionador** – Hashtag Treinamentos  
+  [🔗 Certificado](certificado-George-Marques-Intermediário.pdf)
 
 - **Inteligência Artificial Impressionador** – Hashtag Treinamentos  
   [🔗 Certificado](https://github.com/GeorgeMarquesH/GeorgeMarquesHolanda/blob/main/certificado-George-Marques-Intelig%C3%AAncia-Artificial-Impressionador%20(2).pdf)
